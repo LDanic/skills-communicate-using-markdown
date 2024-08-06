@@ -7,3 +7,6 @@
 num1 = 2
 name = "pepe"
 ```
+ - [ ] task 1
+ - [ ] task 2
+ - [X] task 3
